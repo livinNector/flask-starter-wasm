@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: livinnector-flask-starter-wasm
+package: livinnector/flask-starter-wasm
